@@ -1,0 +1,23 @@
+/doc
+/dist
+/bin/
+/target/
+
+# Eclipse stuff
+.project
+.classpath
+.settings/
+
+# properties file holding connection data for integration test
+demodb.properties
+
+# Intellij IDEA stuff
+.idea/*
+*.iml
+
+# Netbeans stuff
+nbactions.xml
+nbproject/
+
+# OS stuff
+.directory
